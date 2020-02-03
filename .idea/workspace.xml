@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1577991-4de2-44e6-ac58-e896dac22926" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1XJHQ01L664Vfk1pkyunb3CBsDq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1577991-4de2-44e6-ac58-e896dac22926" name="Default Changelist" comment="" />
+      <created>1580757256539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580757256539</updated>
+      <workItem from="1580757258399" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-802" y="372" key="FileChooserDialogImpl" timestamp="1580757589831">
+      <screen x="-1080" y="23" width="1080" height="1858" />
+    </state>
+    <state x="-802" y="372" key="FileChooserDialogImpl/230.1103.1440.877/-1080.23.1080.1858/0.23.1920.1057@-1080.23.1080.1858" timestamp="1580757589831" />
+    <state x="-761" y="572" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580757681657">
+      <screen x="-1080" y="23" width="1080" height="1858" />
+    </state>
+    <state x="-761" y="572" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/230.1103.1440.877/-1080.23.1080.1858/0.23.1920.1057@-1080.23.1080.1858" timestamp="1580757681657" />
+  </component>
+</project>
