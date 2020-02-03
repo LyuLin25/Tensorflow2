@@ -6,7 +6,7 @@ from tensorflow.python.ops import summary_ops_v2
 from tensorflow import keras
 from tensorflow.keras import datasets, layers, models, optimizers, metrics
 
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1'
 
 def mnist_datasets():
     (x_train, y_train), (x_test, y_test) = datasets.mnist.load_data()

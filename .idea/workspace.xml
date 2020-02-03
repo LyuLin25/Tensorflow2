@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1577991-4de2-44e6-ac58-e896dac22926" name="Default Changelist" comment="" />
+    <list default="true" id="b1577991-4de2-44e6-ac58-e896dac22926" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_network.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -33,14 +38,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580757256539</updated>
-      <workItem from="1580757258399" duration="240000" />
+      <workItem from="1580757258399" duration="1485000" />
     </task>
+    <task id="LOCAL-00001" summary="Finish ConvNet">
+      <created>1580757731462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580757731462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish ConvNet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish ConvNet" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-995" y="204" key="CommitChangelistDialog2" timestamp="1580757730706">
+      <screen x="-1080" y="23" width="1080" height="1858" />
+    </state>
+    <state x="-995" y="204" key="CommitChangelistDialog2/230.1103.1440.877/-1080.23.1080.1858/0.23.1920.1057@-1080.23.1080.1858" timestamp="1580757730706" />
     <state x="-802" y="372" key="FileChooserDialogImpl" timestamp="1580757589831">
       <screen x="-1080" y="23" width="1080" height="1858" />
     </state>
